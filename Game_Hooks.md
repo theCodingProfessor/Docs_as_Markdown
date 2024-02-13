@@ -1,0 +1,13 @@
+## Game Hooks Proposed: 
+- Design your own Character
+- Enemies and Bosses
+- Damage and Health Meter(s) - for player and enemies
+- Rewards, hidden (easter egg) and overt 
+- Timers and Delays 
+- Random (events, selections, and/or Dice Roll
+- Levels, Chapters and Stages
+- Leader Board (High Scores)
+- Single Player
+- Plaver vs. Computer (simulated multi-player)
+- Multi-Player 
+- Adventure, Story, Role Play
