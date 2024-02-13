@@ -5,10 +5,9 @@
 - Digital Multiple Choice Quiz Competition (multi-player)
 - Kahoot Style Multiple Choice Game
 - Multiple-Choice Game
-- Reward Style Matching Game 
+'''- Reward Style Matching Game Tony and Kitoria '''
 
-``` Role Player Game RPG ```
-- Battle Pass Level Game
+``` Role Player Game RPG ```- Battle Pass Level Game
 - Baulders Levels
 - C(++) Monster Trivia
 - FPS Quizlet Game
